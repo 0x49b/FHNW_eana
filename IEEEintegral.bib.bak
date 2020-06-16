@@ -1,0 +1,61 @@
+% Encoding: UTF-8
+
+@Book{Bosch2010,
+  author    = {{Karl Bosch}},
+  publisher = {{Oldenbourg Verlag}},
+  title     = {{Brückenkurs Mathematik}},
+  year      = {{2010}},
+  edition   = {{14. Auflage}},
+  isbn      = {{978-3-486-59777-6}},
+}
+
+@Book{Papula2011,
+  author    = {{Lothar Papula}},
+  publisher = {{Vieweg+Teubner Verlag}},
+  title     = {{Mathematik für Ingenieure und Naturwissenschaftler Band 1}},
+  year      = {{2011}},
+  edition   = {{13. Auflage}},
+  isbn      = {{978-3-8348-1749-5}},
+}
+
+@Electronic{Schneider2020,
+  author       = {{Andreas Schneider}},
+  howpublished = {{Blog}},
+  language     = {{de}},
+  month        = jun,
+  title        = {{Bestimmtes Integral}},
+  url          = {{https://www.mathebibel.de/bestimmtes-integral}},
+  year         = {{2020}},
+}
+
+@Electronic{Maturawiki2020,
+  author   = {{Maturawiki}},
+  language = {{de}},
+  month    = jun,
+  title    = {{Integration}},
+  url      = {{https://www1.vobs.at/maturawiki/index.php/Integration}},
+  year     = {{2020}},
+}
+
+
+@Unpublished{Portmann2019,
+  author    = {{Joanna Portmann}},
+  title     = {{Integralrechnung - das bestimmte Integral und der Zusammenhang zwischen unbestimmten und bestimmtem Integral}},
+  year      = {{2019}},
+  publisher = {{Joanna Portmann}},
+}
+
+@Electronic{Riemann2020,
+  author = {{Wikipedia}},
+  title  = {{Bernhard Riemann}},
+  url    = {{https://de.wikipedia.org/wiki/Bernhard_Riemann}},
+  year   = {{2020}},
+}
+
+@Electronic{Darboux2020,
+  author = {{Wikipedia}},
+  title  = {{Jean Gaston Darboux}},
+  url    = {{https://de.wikipedia.org/wiki/Gaston_Darboux}},
+  year   = {{2020}},
+}
+

@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{1 Motivierung}{}% 1
+\BOOKMARK [1][-]{section.2}{2 Theorie: Das bestimmte Integral}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{2.1 Allgemeines}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{2.1.1 Vorgehen nach Riemann Riemann2020}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{2.1.2 Vorgehen nach Darboux Darboux2020}{subsection.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.2}{2.2 Rechenregeln f\374r bestimmte Integrale}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{2.2.1 Vertauschen der Integrationsgrenzen}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{2.2.2 Obergrenze = Untergrenze}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{2.2.3 Aufspalten, Zerlegen}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{3 Beispiele und Anwendungen}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{3.1 Rechenbeispiel}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Integrieren mit Python}{section.3}% 12
